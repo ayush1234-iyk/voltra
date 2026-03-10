@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="32" fill="#2954D3"/>
+  
+  <!-- Volleyball main panels -->
+  <path d="M32 0a32 32 0 0 0 0 64 32 32 0 0 0 0-64z" fill="none"/>
+  
+  <!-- Volleyball lines -->
+  <path d="M32 0 C20 0, 12 12, 12 32 S20 64, 32 64 S52 52, 52 32 S44 0, 32 0" fill="none" stroke="#FFD700" stroke-width="4"/>
+  <path d="M0 32 C0 20, 12 12, 32 12 S64 20, 64 32 S52 52, 32 52 S0 44, 0 32" fill="none" stroke="#FFD700" stroke-width="4"/>
+  
+  <!-- Central circle -->
+  <circle cx="32" cy="32" r="6" fill="#FFD700"/>
+</svg>
