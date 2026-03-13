@@ -8,7 +8,7 @@ import gallery2 from "./assets/gallery2.jpg";
 import gallery3 from "./assets/gallery3.jpg";
 
 const App = () => {
-  const formLink = "https://forms.gle/hdayZQwvbFeSNi1p6";
+  const formLink = "https://docs.google.com/forms/d/e/1FAIpQLSdaPFtW1UKY2O9w1k6SjEzpeFTLlAb7Y4TVkLS95m9XU0aEXA/viewform?usp=publish-editor";
   const eventDate = new Date("2026-03-18T08:00:00");
 
   const [timeLeft, setTimeLeft] = useState({
